@@ -4,10 +4,10 @@ This is a description of my project.
 
 ## Screenshot
 
-![Project Screenshot](https://github.com/Roverbk/My-Notes/raw/main/frontPage.png)
+![Project Screenshot](https://github.com/Roverbk/RealTimeChatApplication/raw/main/frontPage.png)
 
 
-![Project Screenshot](https://github.com/Roverbk/My-Notes/raw/main/communication.png)
+![Project Screenshot](https://github.com/Roverbk/RealTimeChatApplication/raw/main/communication.png)
 
 
 # Getting Started with Create React App
