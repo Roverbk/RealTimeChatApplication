@@ -1,6 +1,6 @@
 # My Project
 
-This is a description of my project.
+A real-time chat application built with React for the frontend, featuring JavaScript-driven backend logic. Utilized Socket.io for seamless real-time messaging and implemented a unique chat room feature where users can join specific rooms using a room ID.
 
 ## Screenshot
 
